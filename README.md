@@ -1,7 +1,7 @@
 # Estimativa do Nível de Serviço Viário: Uma Abordagem com Visão Computacional
 
 ## Visão Geral do Projeto
-Este repositório contém a implementação prática e analítica do estudo "Estimativa do Nível de Serviço Viário: Uma Abordagem com Visão Computacional e Câmeras de Monitoramento". O sistema propõe um framework para a estimativa automatizada do Nível de Serviço (LOS) em rodovias, integrando a arquitetura YOLO (You Only Look Once) com a modelagem de relação fluxo-velocidade. O objetivo primário é substituir a métrica PTSF (Percent-Time-Spent Following) — que exige altos custos de infraestrutura para medição — por indicadores viáveis de serem extraídos via visão computacional, especificamente a Densidade Veicular e a Velocidade Média de Percurso (ATS).
+Este repositório contém a implementação prática e analítica do estudo "Estimativa do Nível de Serviço Viário: Uma Abordagem com Visão Computacional e Câmeras de Monitoramento". O sistema propõe um framework para a estimativa automatizada do Nível de Serviço (LOS) em rodovias, integrando a arquitetura YOLO (You Only Look Once) com a modelagem de relação fluxo-velocidade. O objetivo primário é substituir a métrica PTSF (Percent-Time-Spent Following), que exige altos custos de infraestrutura para medição, por indicadores viáveis de serem extraídos via visão computacional, especificamente a Densidade Veicular e a Velocidade Média de Percurso (ATS).
 
 ## Estrutura do Repositório
 Os arquivos essenciais presentes na raiz deste projeto incluem:
